@@ -1,5 +1,6 @@
 const pathModule = require('path')
 
+
 console.log(pathModule.sep)
 
 const filePath = pathModule.join('/content/', 'subfolder', 'test.txt')
